@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "__hash_table": "cpp",
+        "typeindex": "cpp",
+        "typeinfo": "cpp",
+        "functional": "cpp",
+        "optional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "tuple": "cpp",
+        "type_traits": "cpp",
+        "utility": "cpp",
+        "atomic": "cpp",
+        "complex": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp"
+    }
+}

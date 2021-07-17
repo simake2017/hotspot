@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" ENABLED="true" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3342e989-e857-424c-83de-9a45dabdca7b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.settings/language.settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.settings/language.settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/agent/src/share/classes/sun/jvm/hotspot/oops/InstanceKlass.java" beforeDir="false" afterPath="$PROJECT_DIR$/agent/src/share/classes/sun/jvm/hotspot/oops/InstanceKlass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cpu/sparc/vm/copy_sparc.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpu/sparc/vm/copy_sparc.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cpu/x86/vm/copy_x86.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpu/x86/vm/copy_x86.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cpu/x86/vm/stubGenerator_x86_32.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpu/x86/vm/stubGenerator_x86_32.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/cpu/x86/vm/templateInterpreter_x86_32.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/cpu/x86/vm/templateInterpreter_x86_32.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/os/linux/vm/os_linux.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/os/linux/vm/os_linux.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/tools/launcher/java.c" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/tools/launcher/java.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/classfile/systemDictionary.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/classfile/systemDictionary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/classfile/systemDictionary.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/classfile/systemDictionary.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/classfile/vmSymbols.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/classfile/vmSymbols.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/code/codeBlob.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/code/codeBlob.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/code/codeBlob.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/code/codeBlob.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/code/codeCache.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/code/codeCache.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/gc_implementation/parallelScavenge/parallelScavengeHeap.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/gc_implementation/parallelScavenge/parallelScavengeHeap.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/gc_implementation/shared/mutableSpace.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/gc_implementation/shared/mutableSpace.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/gc_interface/collectedHeap.inline.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/gc_interface/collectedHeap.inline.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/memory/allocation.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/memory/allocation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/memory/allocation.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/memory/allocation.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/memory/allocation.inline.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/memory/allocation.inline.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/oops/cpCacheOop.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/oops/cpCacheOop.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/oops/instanceKlass.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/oops/instanceKlass.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/oops/klass.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/oops/klass.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/oops/klassOop.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/oops/klassOop.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/oops/oop.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/oops/oop.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/oops/oopsHierarchy.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/oops/oopsHierarchy.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/prims/jni.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/prims/jni.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/prims/jni.h" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/prims/jni.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/prims/jvm.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/prims/jvm.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/basicLock.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/basicLock.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/init.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/init.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/os.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/os.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/stubRoutines.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/stubRoutines.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/thread.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/thread.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/thread.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/thread.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/runtime/threadLocalStorage.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/runtime/threadLocalStorage.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/utilities/copy.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/utilities/copy.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/share/vm/utilities/globalDefinitions.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/share/vm/utilities/globalDefinitions.hpp" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectId" id="1SDhztoGZp9YNY5MccE9jr51N5x" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>C/C++</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="cmake.loaded.for.project" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="CMake 应用程序.Build All">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="hotspot" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Project" TARGET_NAME="hotspot" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Project" RUN_TARGET_NAME="hotspot">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Makefile (1)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/agent/make/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile (2)" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/make/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <configuration name="Makefile" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
+      <makefile filename="$PROJECT_DIR$/test/Makefile" target="" workingDirectory="" arguments="">
+        <envs />
+      </makefile>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.Build All" />
+      <item itemvalue="CMake 应用程序.hotspot" />
+      <item itemvalue="Makefile 目标.Makefile" />
+      <item itemvalue="Makefile 目标.Makefile (1)" />
+      <item itemvalue="Makefile 目标.Makefile (2)" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3342e989-e857-424c-83de-9a45dabdca7b" name="Default" comment="" />
+      <created>1533970445485</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533970445485</updated>
+      <workItem from="1533970448215" duration="487000" />
+      <workItem from="1533970951379" duration="46000" />
+      <workItem from="1533971042604" duration="599000" />
+      <workItem from="1533971753106" duration="7601000" />
+      <workItem from="1534059905803" duration="1367000" />
+      <workItem from="1534479694837" duration="713000" />
+      <workItem from="1534480469381" duration="1693000" />
+      <workItem from="1534488749682" duration="4862000" />
+      <workItem from="1534499643405" duration="714000" />
+      <workItem from="1536994561891" duration="19000" />
+      <workItem from="1537146557761" duration="9000" />
+      <workItem from="1571104341345" duration="950000" />
+      <workItem from="1571105463495" duration="16461000" />
+      <workItem from="1574818406874" duration="14000" />
+      <workItem from="1574903560978" duration="290000" />
+      <workItem from="1581481383367" duration="609000" />
+      <workItem from="1581902332623" duration="3544000" />
+      <workItem from="1585376016632" duration="1991000" />
+      <workItem from="1587530727270" duration="16000" />
+      <workItem from="1607955740598" duration="45000" />
+      <workItem from="1626491745129" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="497" y="255" width="597" height="522" key="find.popup" timestamp="1607955778792">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="497" y="255" width="597" height="522" key="find.popup/0.23.1680.986@0.23.1680.986" timestamp="1607955778792" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.37011495" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
